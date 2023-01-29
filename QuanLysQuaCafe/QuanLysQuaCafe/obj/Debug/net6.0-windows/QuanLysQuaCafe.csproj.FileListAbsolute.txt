@@ -1,0 +1,100 @@
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.exe
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.deps.json
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.runtimeconfig.json
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.pdb
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.AssemblyReference.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.Login.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.GenerateResource.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.AssemblyInfoInputs.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.AssemblyInfo.cs
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.CoreCompileInputs.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\refint\QuanLysQuaCafe.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.pdb
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.genruntimeconfig.cache
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\ref\QuanLysQuaCafe.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.fTableManeger.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.fAccountProfile.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.fAdmin.resources
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Học\Học Tốt\Học Trên Lớp\Học Kì 4\Lập Trình Hướng Đối Tượng\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.CopyComplete
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.exe
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.deps.json
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.runtimeconfig.json
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\QuanLysQuaCafe.pdb
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.fAccountProfile.resources
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.fAdmin.resources
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.fTableManeger.resources
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.Login.resources
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.AssemblyInfo.cs
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.csproj.CopyComplete
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\refint\QuanLysQuaCafe.dll
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.pdb
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\QuanLysQuaCafe.genruntimeconfig.cache
+C:\Users\Admin\Desktop\File-On-Computer\QuanLysQuaCafe\QuanLysQuaCafe\obj\Debug\net6.0-windows\ref\QuanLysQuaCafe.dll
